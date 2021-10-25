@@ -304,6 +304,17 @@
 	background-size:cover;
 	background-position:center bottom;
 }
+#rev_slider_1_2_wrapper {
+	margin:0px auto;
+	background-color:transparent;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	background-image:url(../images/bg_main_slider2.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center bottom;
+}
 #rev_slider_2_2_wrapper {
 	margin:0px auto;
 	background-color:#211f1e;
